@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5440d67-9c61-46de-9146-3b3577aa56c6" name="Changes" comment="edit gitignore" />
+    <list default="true" id="a5440d67-9c61-46de-9146-3b3577aa56c6" name="Changes" comment="edit gitignore">
+      <change afterPath="$PROJECT_DIR$/locators/__init__.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="my_edit" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,13 +56,16 @@
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.codeium.enabled": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/User/PycharmProjects/Repetitors",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "git-widget-placeholder": "my__edit",
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/herokuapp",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Repetitors" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\Repetitors" />
     </key>
   </component>
