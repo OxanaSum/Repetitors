@@ -9,7 +9,7 @@
 .idea/workspace.xml
 .idea/shelf/
 .venv/
-.idea
+.idea/
 venv/
 __pycache__/
 *.pyc
