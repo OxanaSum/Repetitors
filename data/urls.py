@@ -1,3 +1,3 @@
 class Urls:
 
-    repetitor_main_url = "http://195.133.27.184/"
+    repetitor_main_url = "http://tester:dslfjsdfblkhew@122b1klbfw@testing.misleplav.ru"
